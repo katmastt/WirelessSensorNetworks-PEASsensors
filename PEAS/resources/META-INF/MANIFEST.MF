@@ -1,0 +1,7 @@
+MIDlet-Name: NetbeansSpotApplication
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Sun Microsystems Inc
+MIDlet-1: PEAS, ,  net.java.dev.netbeansspot.PEAS.PEAS
+MIDlet-4: Application_test , , test.Test
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
